@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kangaroo</folder>
+	<filename>00183.jpg</filename>
+	<path>/home/andy/Desktop/Kangaroo/cat-and-kangaroo.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>344</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>28</ymin>
+			<xmax>626</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>
